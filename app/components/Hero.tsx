@@ -11,7 +11,7 @@ export default function Hero() {
 
   useGSAP(() => {
     if (!heroRef.current) return;
-    
+
     // We recreate the SplitText just for this component
     const split = new SplitText("#casamento", { type: "chars" });
 
@@ -65,7 +65,7 @@ export default function Hero() {
           <TopOrnament />
         </div>
 
-        <h1 id="casamento" className="wedding-title text-[90px]">
+        <h1 id="casamento" className="wedding-title text-[30px] md:text-[50px] lg:text-[90px]">
           Yuri & Lara
         </h1>
 
