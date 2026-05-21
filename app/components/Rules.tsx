@@ -95,7 +95,7 @@ export default function Rules() {
       <div className="absolute inset-0 bg-black/20 -z-10 backdrop-blur-sm"></div>
 
       <div className="max-w-6xl w-full text-center text-white">
-        <h2 className="rules-title wedding-title text-[50px] md:text-[40px] mb-12 opacity-0">
+        <h2 className="rules-title wedding-title text-[20px] md:text-[40px] mb-12 opacity-0">
           Informações Importantes
         </h2>
 
