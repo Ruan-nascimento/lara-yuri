@@ -37,11 +37,6 @@ const rulesList = [
     icon: "📱",
   },
   {
-    title: "Espaço Kids",
-    desc: "Teremos um espaço kids com monitores, garantindo a diversão das crianças com segurança.",
-    icon: "🎈",
-  },
-  {
     title: "Aproveite a Festa!",
     desc: "O mais importante para nós é que todos se divirtam muito nesse dia especial.",
     icon: "🥂",
